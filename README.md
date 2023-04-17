@@ -1,6 +1,6 @@
 # Protfolio-Projects
 
-Projects that were accomplised during the QWANT DS Track.
+## Projects that were accomplised during the QWANT DS Track.
 
 1. **Convex Optimization**
 
@@ -38,6 +38,8 @@ Loading the dataset with pandas; Summarizing the dataset; Visualizing the datase
 Immersing in the NBA game dataset, parsing a csv, which describes both teams' players' game activities to
 create a table, separately for home and away team, with statistics (FG, FGA, FG%, 3P, 3PA, FT) of all players by finding keywords with Python's Regex Module. Additional calculations were done for some stats.
 
+## University, Year 1:
+
 8. **Hospital Admitting System Simulation** 
 
 >1. Reading the Patients dataset - Sheet1.csv, new_Diseases and Symptoms - Sheet1.csv.
@@ -63,6 +65,8 @@ Hence, the bar plot will be different for every run.
 >5. Assigning grades. Split into a range from 1 to 5. The wider the range, the more accurate our groups are, but at the same time, it is more challenging to work with a large number of combinations.
 >6. Segmented_rfm Table is ready! RFM score of 413 means: r_quartile = 4, f_quartile = 1, m_quartile = 3.
 >7. Separately, the average recency/frequency/monetary_value values for all RFMScore can be seen using matplotlib.
+
+## University, Year 2:
 
 10. **Games in Java**
 
