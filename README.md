@@ -1,6 +1,6 @@
-<h2 align="center">
- <img src="https://media.giphy.com/media/5Lmn42BCOy99RaGRP7/giphy.gif" width="60"> Portfolio Projects <img src="https://media.giphy.com/media/5Lmn42BCOy99RaGRP7/giphy.gif" width="60">
-</h2>
+<h1 align="center">
+ <img src="https://media.giphy.com/media/U3aSGuq0paWSro3Vnx/giphy.gif" width="30"> Portfolio Projects <img src="https://media.giphy.com/media/U3aSGuq0paWSro3Vnx/giphy.gif" width="30">
+</h1>
 
 ## Projects that were accomplised during the QWANT DS Track.
 
