@@ -2,7 +2,7 @@
  <img src="https://media.giphy.com/media/U3aSGuq0paWSro3Vnx/giphy.gif" width="30"> Portfolio Projects <img src="https://media.giphy.com/media/U3aSGuq0paWSro3Vnx/giphy.gif" width="30">
 </h1>
 
-## Projects that were accomplised during the QWANT DS Track.
+## QWANT Programming School, Data Science Track (May, 2021 - October, 2021).
 
 1. **Convex Optimization**
 
@@ -40,7 +40,7 @@ Loading the dataset with pandas; Summarizing the dataset; Visualizing the datase
 Immersing in the NBA game dataset, parsing a csv, which describes both teams' players' game activities to
 create a table, separately for home and away team, with statistics (FG, FGA, FG%, 3P, 3PA, FT) of all players by finding keywords with Python's Regex Module. Additional calculations were done for some stats.
 
-## University, Year 1:
+## University, Year 1 (2021-2022):
 
 8. **Hospital Admitting System Simulation** 
 
@@ -68,7 +68,7 @@ Hence, the bar plot will be different for every run.
 >6. Segmented_rfm Table is ready! RFM score of 413 means: r_quartile = 4, f_quartile = 1, m_quartile = 3.
 >7. Separately, the average recency/frequency/monetary_value values for all RFMScore can be seen using matplotlib.
 
-## University, Year 2:
+## University, Year 2 (2022-2023):
 
 10. **Games in Java**
 
