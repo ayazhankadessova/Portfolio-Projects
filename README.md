@@ -14,9 +14,9 @@ Database Management
 
 Java app with JDBC driver to access an Oracle DB and PL/SQL triggers, supporting various functions for University Bookshop Management.
 
-<p align="center">
+<h3 align="center">
 Full-stack/Frontend
-</p>
+</h3>
 
 ### 2. [**LEarnBU**](https://github.com/ayazhankadessova/FinanceGame) 
 
