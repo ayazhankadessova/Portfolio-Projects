@@ -39,7 +39,7 @@ In this project, I gained hands-on experience in implementing performance measur
 
 This project demonstrates the use of Python's cursor and iterative SQL reading to write data into a CSV file. It also showcases the conversion of CSV to SQL through the use of queries and Python's sqlite3 module.
 
-### 3. [**Scraping & Analysing Fafa.kz for Almaty Delivery Market Insights**](https://github.com/ayazhankadessova/Portfolio-Projects/tree/main/FAFA) 
+### 3. [**Scraping & Analysing Fafa.kz for Almaty Delivery Market Insights**](https://ayazhankad-coding.blogspot.com/2021/09/scraping-fafakz-for-almaty-delivery.html)
 
 1.	Scraped the data from the https://fa-fa.kz/search_load/gruzy-almaty/ with Beautiful Soup in fafa_Almaty.py and wrote it in fafa_Almaty.csv
 2.	Cleaned Data in fafa_Almaty.csv
@@ -48,7 +48,8 @@ This project demonstrates the use of Python's cursor and iterative SQL reading t
 5.	Answered 3 Business Questions through calculations and visualizations with seaborn and matplotlib.pyplot.
 6.	Presented Suggestions on a profitable business model
 
-- Summarized Projects steps in the BlogPost: https://fafkz-scraping.blogspot.com/2021/09/scraping-fafakz-for-almaty-delivery.html .
+- Summarized Projects steps in the BlogPost: https://ayazhankad-coding.blogspot.com/2021/09/scraping-fafakz-for-almaty-delivery.html .
+- [Repo](https://github.com/ayazhankadessova/Portfolio-Projects/tree/main/FAFA)
 
 ### 4. [**TOP 25 Github repos Scraper**](https://github.com/ayazhankadessova/Portfolio-Projects/tree/main/Github%20scraper)
 
