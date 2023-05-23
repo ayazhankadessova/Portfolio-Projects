@@ -6,9 +6,9 @@
 Independent Projects
 </h2>
 
-<p align="center">
+<h3 align="center">
 Database Management
-</p>
+</h3>
 
 ### 1. [**University Bookshop**](https://github.com/ayazhankadessova/UniversityBookshop) 
 
@@ -26,9 +26,9 @@ LEarnBU: Web-based Financial Literacy Game built to improve students' personal f
 
 First MERN Project implementing simple todo web app to keep track of, edit, delete daily tasks.
 
-<p align="center">
+<h3 align="center">
 Data Science/Data Analysis
-</p>
+</h3>
 
 ### 1. [**Convex Optimization**](https://github.com/ayazhankadessova/Portfolio-Projects/tree/main/Convex_Optimization)
 
@@ -65,9 +65,9 @@ Used Python's requests and beautifulsoup4 modules, returning a CSV of the TOP 25
 
 I immersed myself in the NBA game dataset and parsed a CSV file that described both teams' players' game activities. Using Python's Regex Module, I found keywords to extract relevant information and create separate tables for home and away teams with statistics such as FG, FGA, FG%, 3P, 3PA, and FT for all players. I also performed additional calculations for some stats.
 
-<p align="center">
+<h3 align="center">
 NLP
-</p>
+</h3>
 
 ### 7. [**RFM Analysis**](https://github.com/ayazhankadessova/Portfolio-Projects/tree/main/RFM%20Analysis)
 
