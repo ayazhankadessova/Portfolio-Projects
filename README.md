@@ -18,9 +18,10 @@ Java app with JDBC driver to access an Oracle DB and PL/SQL triggers, supporting
 Full-stack/Frontend
 </h3>
 
-### 1. [**LEarnBU**](https://github.com/ayazhankadessova/FinanceGame) 
+### 1. [**LEarnBU**](https://ayazhankadessova.github.io/FinanceGame/index.html)
 
-LEarnBU: Web-based Financial Literacy Game built to improve students' personal finance skills. Users can choose a story to play, with each character dealing with different aspects of personal finance.
+LEarnBU: Web-based Financial Literacy Game built to improve students' personal finance skills. Users can choose a story to play, with each character dealing with different aspects of personal finance. 
+[Repo](https://github.com/ayazhankadessova/FinanceGame)
 
 ### 2. [**ToDo App**](https://github.com/ayazhankadessova/ToDoApp) 
 
