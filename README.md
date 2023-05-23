@@ -30,15 +30,15 @@ First MERN Project implementing simple todo web app to keep track of, edit, dele
 Data Science/Data Analysis
 </p>
 
-### 1. **Convex Optimization**
+### 1. [**Convex Optimization**](https://github.com/ayazhankadessova/Portfolio-Projects/tree/main/Convex_Optimization)
 
 In this project, I gained hands-on experience in implementing performance measures using Gradient Descent Methods. I explored how to optimize the algorithm's efficiency by studying the influence of different learning rates. Additionally, I utilized the Simplex Algorithm to identify optimal values, further enhancing my skills in mathematical optimization.
 
-### 2. **DS Babel**
+### 2. [**DS Babel**](https://github.com/ayazhankadessova/Portfolio-Projects/tree/main/DS%20Babel)
 
 This project demonstrates the use of Python's cursor and iterative SQL reading to write data into a CSV file. It also showcases the conversion of CSV to SQL through the use of queries and Python's sqlite3 module.
 
-### 3. **Scraping & Analysing Fafa.kz for Almaty Delivery Market Insights** 
+### 3. [**Scraping & Analysing Fafa.kz for Almaty Delivery Market Insights**](https://github.com/ayazhankadessova/Portfolio-Projects/tree/main/FAFA) 
 
 1.	Scraped the data from the https://fa-fa.kz/search_load/gruzy-almaty/ with Beautiful Soup in fafa_Almaty.py and wrote it in fafa_Almaty.csv
 2.	Cleaned Data in fafa_Almaty.csv
@@ -49,11 +49,11 @@ This project demonstrates the use of Python's cursor and iterative SQL reading t
 
 - Summarized Projects steps in the BlogPost: https://fafkz-scraping.blogspot.com/2021/09/scraping-fafakz-for-almaty-delivery.html .
 
-### 4. **TOP 25 Github repos Scraper**
+### 4. [**TOP 25 Github repos Scraper**](https://github.com/ayazhankadessova/Portfolio-Projects/tree/main/Github%20scraper)
 
 Used Python's requests and beautifulsoup4 modules, returning a CSV of the TOP 25 trending repositories from Github's page (https://github.com/trending). Following information is included: Developer, Repository Name, Number of Stars.
 
-### 5. **Open Iris**
+### 5. [**Open Iris**](https://github.com/ayazhankadessova/Portfolio-Projects/tree/main/Open%20Iris)
 
 1. Loaded the dataset with pandas
 2. Summarized the dataset
@@ -61,7 +61,7 @@ Used Python's requests and beautifulsoup4 modules, returning a CSV of the TOP 25
 4. Evaluated algorithms with sklearn's DecisionTreeClassifier, KNeighborsClassifier, LogisticRegression, SVC
 5. Made predictions about which class of iris plant a plant belonged to based on its characteristics through training the data with sklearn's train_test_data, and showed the accuracy score.
 
-### 6. **NBA Game Analysis**
+### 6. [**NBA Game Analysis**](https://github.com/ayazhankadessova/Portfolio-Projects/tree/main/NBA%20Game%20Analysis)
 
 I immersed myself in the NBA game dataset and parsed a CSV file that described both teams' players' game activities. Using Python's Regex Module, I found keywords to extract relevant information and create separate tables for home and away teams with statistics such as FG, FGA, FG%, 3P, 3PA, and FT for all players. I also performed additional calculations for some stats.
 
@@ -69,7 +69,7 @@ I immersed myself in the NBA game dataset and parsed a CSV file that described b
 NLP
 </p>
 
-### 7. **RFM Analysis**
+### 7. [**RFM Analysis**](https://github.com/ayazhankadessova/Portfolio-Projects/tree/main/RFM%20Analysis)
 
 1. Use the public dataset: https://www.kaggle.com/olistbr/brazilian-ecommerce, namely olist_orders_dataset.csv and olist_order_payments_dataset.csv files.
 2. Convert the date of delivery of the order by the original carrier (order_delivered_carrier_date) to datetime64. -> as we are going to base our calculations on it.
@@ -79,7 +79,7 @@ NLP
 6. Segmented_rfm Table is ready! RFM score of 413 means: r_quartile = 4, f_quartile = 1, m_quartile = 3.
 7. Separately, the average recency/frequency/monetary_value values for all RFMScore can be seen using matplotlib.
 
-### 1. **Fine Tune Language Model**
+### 1. [**Fine Tune Language Model**](https://github.com/ayazhankadessova/Portfolio-Projects/tree/main/Fine_Tune_Sentiment_Analysis)
 
 Fune tuning for Sentiment Analysis Using PyTorch to create [bert-finetuned-semantic-chinese](https://huggingface.co/Ayazhankad/bert-finetuned-semantic-chinese). Result Model: [here](https://huggingface.co/Ayazhankad/bert-finetuned-semantic-chinese)
 
@@ -88,7 +88,7 @@ Fune tuning for Sentiment Analysis Using PyTorch to create [bert-finetuned-seman
 University, Year 1 (2021-2022)
 </h2>
 
-### 1. **Hospital Admitting System Simulation** 
+### 1. [**Hospital Admitting System Simulation**](https://github.com/ayazhankadessova/Portfolio-Projects/tree/main/Hospital%20Admitting)
 
 1. Read the Patients dataset - Sheet1.csv and new_Diseases and Symptoms - Sheet1.csv.
 2. Shuffled the 'Patients dataset - Sheet1.csv' and added patients to the hospital based on the following criteria using OOP for Patient and Hospital data structures:
