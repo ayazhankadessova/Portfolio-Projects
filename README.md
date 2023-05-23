@@ -99,3 +99,19 @@ Assignments done during the ECON3096: Causal Inference: Capturing Cause-and-Effe
 * [Assignment 3](https://github.com/ayazhankadessova/Portfolio-Projects/tree/main/Rpractice/Assignment_3): Experiment and Difference-in-Differences, DID in non-experiment setting, Matching Fixed Effects
 * [Final](https://github.com/ayazhankadessova/Portfolio-Projects/tree/main/Rpractice/Final): Referee Report(black and white wage gap that shows discrimination of labor market), Replication Project (Treatment effect, Quadratic relations, Regressions, etc).
 
+<h2 align="center">
+Independent Projects
+</h2>
+
+### 12. [**University Bookshop**](https://github.com/ayazhankadessova/UniversityBookshop) 
+
+Java app with JDBC driver to access an Oracle DB and PL/SQL triggers, supporting various functions for University Bookshop Management.
+
+### 13. [**LEarnBU**](https://github.com/ayazhankadessova/FinanceGame) 
+
+LEarnBU: Web-based Financial Literacy Game built to improve students' personal finance skills. Users can choose a story to play, with each character dealing with different aspects of personal finance.
+
+### 14. [**ToDo App**](https://github.com/ayazhankadessova/ToDoApp) 
+
+First MERN Project implementing simple todo web app to keep track of, edit, delete daily tasks.
+
