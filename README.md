@@ -125,7 +125,3 @@ Assignments done during the ECON3096: Causal Inference: Capturing Cause-and-Effe
 * [Assignment 3](https://github.com/ayazhankadessova/Portfolio-Projects/tree/main/Rpractice/Assignment_3): Experiment and Difference-in-Differences, DID in non-experiment setting, Matching Fixed Effects
 * [Final](https://github.com/ayazhankadessova/Portfolio-Projects/tree/main/Rpractice/Final): Referee Report(black and white wage gap that shows discrimination of labor market), Replication Project (Treatment effect, Quadratic relations, Regressions, etc).
 
-<h2 align="center">
-Independent Projects
-</h2>
-
