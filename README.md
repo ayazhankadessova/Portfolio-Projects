@@ -76,10 +76,6 @@ Used Python's requests and beautifulsoup4 modules, returning a CSV of the TOP 25
 
 I immersed myself in the NBA game dataset and parsed a CSV file that described both teams' players' game activities. Using Python's Regex Module, I found keywords to extract relevant information and create separate tables for home and away teams with statistics such as FG, FGA, FG%, 3P, 3PA, and FT for all players. I also performed additional calculations for some stats.
 
-<h3 align="center">
-NLP
-</h3>
-
 ### 7. [**RFM Analysis**](https://github.com/ayazhankadessova/Portfolio-Projects/tree/main/RFM%20Analysis)
 
 1. Use the public dataset: https://www.kaggle.com/olistbr/brazilian-ecommerce, namely olist_orders_dataset.csv and olist_order_payments_dataset.csv files.
@@ -89,6 +85,10 @@ NLP
 5. Assigning grades. Split into a range from 1 to 5. The wider the range, the more accurate our groups are, but at the same time, it is more challenging to work with a large number of combinations.
 6. Segmented_rfm Table is ready! RFM score of 413 means: r_quartile = 4, f_quartile = 1, m_quartile = 3.
 7. Separately, the average recency/frequency/monetary_value values for all RFMScore can be seen using matplotlib.
+
+<h3 align="center">
+NLP
+</h3>
 
 ### 1. [**Fine Tune Language Model**](https://github.com/ayazhankadessova/Portfolio-Projects/tree/main/Fine_Tune_Sentiment_Analysis)
 
