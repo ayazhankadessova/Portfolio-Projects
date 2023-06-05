@@ -18,12 +18,19 @@ Java app with JDBC driver to access an Oracle DB and PL/SQL triggers, supporting
 Full-stack/Frontend
 </h3>
 
-### 1. [**LEarnBU**](https://ayazhankadessova.github.io/FinanceGame/index.html)
+### 1. [**Trip Generator with OpenAI**](https://trip-generator-openai.netlify.app)
 
-LEarnBU: Web-based Financial Literacy Game built to improve students' personal finance skills. Users can choose a story to play, with each character dealing with different aspects of personal finance. 
+Using the OpenAI API, TripGenie eliminates travel planning stress by generating personalized trip itineraries, destination ideas, and AI-generated images based on the prefernces, such as budget, area, days, etc, and even give a personalized message for your waiting time.
+
+[Repo](https://github.com/ayazhankadessova/trip-generator-with-OpenAI)
+
+### 2. [**LEarnBU**](https://ayazhankadessova.github.io/FinanceGame/index.html)
+
+LEarnBU: Web-based Financial Literacy Game built to improve students' personal finance skills. Users can choose a story to play, with each character dealing with different aspects of personal finance. Helped 50 HKBU students learn Saving and Budgeting, Investing, etc.
+
 [Repo](https://github.com/ayazhankadessova/FinanceGame)
 
-### 2. [**ToDo App**](https://github.com/ayazhankadessova/ToDoApp) 
+### 3. [**ToDo App**](https://github.com/ayazhankadessova/ToDoApp) 
 
 First MERN Project implementing simple todo web app to keep track of, edit, delete daily tasks.
 
