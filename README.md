@@ -26,7 +26,9 @@ Using the OpenAI API, TripGenie eliminates travel planning stress by generating 
 
 ### 2. [**LEarnBU**](https://ayazhankadessova.github.io/FinanceGame/index.html)
 
-LEarnBU: Web-based Financial Literacy Game built to improve students' personal finance skills. Users can choose a story to play, with each character dealing with different aspects of personal finance. Helped 50 HKBU students learn Saving and Budgeting, Investing, etc.
+LEarnBU: Web-based Financial Literacy Game built to improve students' personal finance skills. Users can choose a story to play, with each character dealing with different aspects of personal finance. 
+
+Helped 50 HKBU students learn Saving and Budgeting, Investing via quizes, reading videoes.
 
 [Repo](https://github.com/ayazhankadessova/FinanceGame)
 
