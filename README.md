@@ -7,14 +7,6 @@ Independent Projects
 </h2>
 
 <h3 align="center">
-Database Management
-</h3>
-
-### 1. [**University Bookshop**](https://github.com/ayazhankadessova/UniversityBookshop) 
-
-Java app with JDBC driver to access an Oracle DB and PL/SQL triggers, supporting various functions for University Bookshop Management.
-
-<h3 align="center">
 Full-stack/Frontend
 </h3>
 
@@ -35,6 +27,14 @@ Helped 50 HKBU students learn Saving and Budgeting, Investing via quizes, readin
 ### 3. [**ToDo App**](https://github.com/ayazhankadessova/ToDoApp) 
 
 First MERN Project implementing simple todo web app to keep track of, edit, delete daily tasks.
+
+<h3 align="center">
+Database Management
+</h3>
+
+### 1. [**University Bookshop**](https://github.com/ayazhankadessova/UniversityBookshop) 
+
+Java app with JDBC driver to access an Oracle DB and PL/SQL triggers, supporting various functions for University Bookshop Management.
 
 <h3 align="center">
 Data Science/Data Analysis
