@@ -1,5 +1,8 @@
 ## Willing to start a delivery business at Almaty? Here are some insights into the market…
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/22f46e57-64e9-43b0-8488-bb093e7da950" width="800" alt="accessibility text">
+</p>
 ### In this project, I 
 
 1.	Scraped the data from the **https://fa-fa.kz/search_load/gruzy-almaty/** with Beautiful Soup, using the fafa_Almaty.py script and wrote it in fafa_Almaty.csv
